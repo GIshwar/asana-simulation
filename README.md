@@ -107,17 +107,18 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 5️⃣ Run Simulation
 python src/main.py
-
+```
 
 ### 🖼️ Example Output Preview
 
 **a. Tasks Table**  
-![Tasks Table](https://raw.githubusercontent.com/GIshwar/asana-simulation/main/docs/output_tasks.png)
+![Tasks Table](docs/output_tasks.png)
 
 **b. Users Table**  
-![Users Table](https://raw.githubusercontent.com/GIshwar/asana-simulation/main/docs/output_users.png)
+![Users Table](docs/output_users.png)
 
-These examples demonstrate realistic Asana-like task structures, user roles, and relationships within the simulated workspace.
+These examples demonstrate realistic Asana-like task structures, user roles, and
+relationships within the simulated workspace.
 
 
 Expected output:

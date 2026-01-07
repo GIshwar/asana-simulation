@@ -175,6 +175,20 @@ Graceful fallbacks for:
 - **Database Size:** ~180 MB (SQLite)  
 - **Output File:** `output/asana_simulation.sqlite`
 
+### 🖼️ Visual Output Samples  
+
+To illustrate the realism of the generated data, the following samples are extracted directly from the SQLite database:  
+
+**a. Tasks Table**  
+[![Tasks Table](output_tasks.png)](output_tasks.png)  
+
+**b. Users Table**  
+[![Users Table](output_users.png)](output_users.png)  
+
+Each record includes realistic fields such as titles, due dates, statuses, assigned users, and project linkages.  
+The user table shows diversity in roles and teams, demonstrating hierarchical realism and demographic variation.
+
+
 ---
 
 ## 8️⃣ Evaluation Criteria Mapping  

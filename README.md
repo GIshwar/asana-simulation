@@ -19,6 +19,12 @@ It aims to support **productivity research, LLM modeling, and reinforcement lear
 
 ---
 
+### 🧩 ER Diagram  
+
+[![ER Diagram](docs/asana_er_diagram.png)](docs/asana_er_diagram.png)
+
+
+
 ## 🏗️ Architecture Overview  
 
 ### 📁 Folder Structure  
@@ -192,3 +198,5 @@ This project is licensed under the MIT License — you’re free to use, modify,
 GIshwar Gajakosh
 https://github.com/GIshwar
 Aspiring Research Scientist | AI & Data Simulation Enthusiast
+
+⭐ If you found this project insightful, consider starring the repo!

@@ -1,0 +1,101 @@
+# Task Prompt Templates for Asana Simulation
+# These are action-oriented, realistic templates that guide LLM text generation for task names and descriptions.
+# Curated for B2B SaaS, engineering, marketing, and operations workflows.
+
+# ==========================
+# 🧑‍💻 Engineering Tasks
+# ==========================
+Implement {feature} module for {product}
+Refactor {component} code for performance
+Fix bug in {feature} flow
+Write unit tests for {module}
+Optimize database queries for {feature}
+Review PR for {feature} implementation
+Add logging and monitoring to {service}
+Migrate {component} to new API version
+Conduct load testing for {feature}
+Update API documentation for {service}
+
+# ==========================
+# 🎨 Design & UX Tasks
+# ==========================
+Create wireframes for {feature}
+Review UX feedback for {product}
+Design new icon set for {theme}
+Conduct usability testing session
+Prepare design system updates
+Review mobile layout for {page}
+Improve color contrast accessibility
+Prototype new dashboard design
+Organize Figma components
+Deliver final assets for development handoff
+
+# ==========================
+# 📈 Marketing Tasks
+# ==========================
+Draft blog post on {topic}
+Review social media copy for {campaign}
+Prepare product launch newsletter
+Analyze traffic metrics for {campaign}
+Coordinate with design for ad creatives
+Plan content calendar for Q{quarter}
+Update SEO keywords for {page}
+Gather analytics report for {platform}
+Publish case study on {client}
+Schedule promotional emails
+
+# ==========================
+# 🧭 Product Management Tasks
+# ==========================
+Define roadmap for {product}
+Collect feedback from {team}
+Prioritize backlog for sprint {number}
+Review KPI metrics for {goal}
+Conduct retrospective for sprint {number}
+Update OKR progress for Q{quarter}
+Align release milestones with engineering
+Review feature spec for {feature}
+Coordinate cross-team sync for {initiative}
+Refine acceptance criteria for {epic}
+
+# ==========================
+# 🏢 Operations & HR Tasks
+# ==========================
+Prepare hiring plan for {department}
+Review candidate shortlist
+Draft onboarding checklist for {role}
+Conduct performance review for {employee}
+Update company policy document
+Schedule all-hands meeting
+Plan team offsite logistics
+Review expense reports for {month}
+Coordinate with IT for new hires
+Document internal processes for {workflow}
+
+# ==========================
+# 📊 Analytics & Data Tasks
+# ==========================
+Create dashboard for {metric}
+Review anomaly in {dataset}
+Write SQL query for {insight}
+Clean data in {table}
+Generate report for {stakeholder}
+Schedule daily ETL pipeline check
+Optimize query performance for {metric}
+Validate data accuracy in {dataset}
+Visualize trends in {metric}
+Automate report delivery for {team}
+
+# ==========================
+# 🧩 Generic & Fallback Prompts
+# ==========================
+Research new tools for {goal}
+Review documentation updates
+Prepare summary report for {project}
+Collaborate with {team} on {initiative}
+Follow up on pending tasks
+Document learnings from {experiment}
+Sync with stakeholders on progress
+Draft email update to leadership
+Test new release deployment
+Track progress on ongoing initiatives

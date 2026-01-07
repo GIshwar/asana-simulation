@@ -115,12 +115,12 @@ python src/main.py
 Below are sample snapshots of the generated Asana simulation data:  
 
 **a. Tasks Table**  
-[![Tasks Table](docs/output_tasks.png)](docs/output_tasks.png)  
+![Tasks Table](https://raw.githubusercontent.com/GIshwar/asana-simulation/main/docs/output_tasks.png)
 
-**b. Users Table**  
-[![Users Table](output_users.png)](output_users.png)  
+![Users Table](https://raw.githubusercontent.com/GIshwar/asana-simulation/main/docs/output_users.png)
 
 These examples demonstrate realistic Asana-like task structures, user roles, and relationships within the simulated workspace.
+
 
 
 Expected output:
